@@ -1,2 +1,2 @@
 # hello-world
-Starting of github 
+Starting of github from a simple hello world program in java.
